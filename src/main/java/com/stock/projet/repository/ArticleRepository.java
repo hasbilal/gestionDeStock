@@ -10,5 +10,5 @@ import java.util.Optional;
 
 @Repository
 public interface ArticleRepository  extends JpaRepository<Article,Long> {
-   // Article findByName(String nom);
+    //Article findByName(String nom);
 }
