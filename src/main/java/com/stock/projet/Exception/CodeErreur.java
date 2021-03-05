@@ -1,4 +1,4 @@
-package Exception;
+package com.stock.projet.Exception;
 
 public enum CodeErreur {
 
